@@ -1,2 +1,2 @@
 # Catering Machine Application
-First capstone project completed at Tech Elevator
+First capstone project completed at Tech Elevator.
